@@ -149,4 +149,15 @@ form .footer input{
         width: 100%;
         height: 100vh;
     }
+
+    .container form input{
+        width: 45px;
+    }
+
+    .footer  input.equal{
+        width: 40%;
+    }
+    .footer  input.reset{
+        width: 40%;
+    }
 }
